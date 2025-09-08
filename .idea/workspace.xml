@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e53a6c46-cb11-45c3-8cc7-01963e8b64ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/flowchart.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leevilaune/probability/AgeDistributionSim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leevilaune/probability/ArrivalProcess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leevilaune/probability/Clock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leevilaune/probability/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/leevilaune/probability/writing_tasks_3.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leevilaune/writing_tasks_4.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leevilaune/introtosim/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leevilaune/introtosim/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leevilaune/introtosim/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leevilaune/introtosim/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leevilaune/threephase/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leevilaune/threephase/Event.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leevilaune/threephase/EventList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leevilaune/threephase/EventList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
