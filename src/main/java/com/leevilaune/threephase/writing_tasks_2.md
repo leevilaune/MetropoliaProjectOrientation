@@ -6,9 +6,9 @@ initial arrival.
 
 b) arrival event
 
-### Task 4 – Three Phase Simulation
+### Task 4
 
-We continue the simulation from the example until the **first Y exits**.
+We continue the simulation from the example until the first Y exits.
 
 ---
 
@@ -92,9 +92,4 @@ Results:
 
 ### Conclusion
 
-The **first Y exits at time 18** (event `B5`).  
-At this moment:
-- Router is idle.
-- Operator 1 is processing X3 (completes at 20).
-- Operator 2 is idle.
-- Results: **X=2, Y=1**.
+The first Y exits at time 18 (event `B5`).  
