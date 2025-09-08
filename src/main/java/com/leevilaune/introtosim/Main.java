@@ -1,7 +1,7 @@
 package com.leevilaune.introtosim;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
         ServicePoint servicePoint = new ServicePoint();
         CustomerGenerator cg = new CustomerGenerator(servicePoint);
 
@@ -12,8 +12,9 @@ public class Main {
                 System.out.printf("Average serving time after %d rounds of customers: %d\n", i, servicePoint.getAvgServingTime());
             }
         } catch (InterruptedException e) {
-            throw new RuntimeException(e);
+            e.printStackTrace();
         }
+
     }
     //task 4, not used anywhere rn
     public static void queue() throws InterruptedException {

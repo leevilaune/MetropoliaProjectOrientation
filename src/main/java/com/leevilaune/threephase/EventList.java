@@ -22,6 +22,10 @@ public class EventList {
         this.events.stream().sorted().forEach(System.out::println);
     }
 
+    public Event getLast(){
+        return this.events.stream().sorted().toList().get(events.size()-1);
+    }
+
     public PriorityQueue<Event> getEvents() {
         return events;
     }

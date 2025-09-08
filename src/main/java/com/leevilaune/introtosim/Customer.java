@@ -12,6 +12,13 @@ public class Customer {
         this.id = customerCount;
     }
 
+    public Customer(long startTime) {
+        customerCount++;
+        this.id = customerCount;
+        this.startTime = startTime;
+    }
+
+
     public int getId() {
         return id;
     }

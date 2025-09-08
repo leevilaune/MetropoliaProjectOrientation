@@ -10,6 +10,12 @@ public class Event implements Comparable<Event> {
         this.ts = (long) (Math.random()*100);
     }
 
+    public Event(EventType type,long ts){
+        this.type = type;
+        this.ts = ts;
+    }
+
+
     public long getTs() {
         return ts;
     }
